@@ -1,0 +1,23 @@
+{
+  "name": "dockerise-nodejs",
+  "version": "1.0.0",
+  "description": "Dockerising NodeJS application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinnaBalu/dockerise-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinnaBalu/dockerise-nodejs/issues"
+  },
+  "homepage": "https://github.com/JinnaBalu/dockerise-nodejs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
